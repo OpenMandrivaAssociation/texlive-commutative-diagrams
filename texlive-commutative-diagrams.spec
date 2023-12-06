@@ -1,6 +1,6 @@
 Name:		texlive-commutative-diagrams
-Version:	55526
-Release:	2
+Version:	68044
+Release:	1
 Summary:	CoDi: Commutative Diagrams for TeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/commutative-diagrams
