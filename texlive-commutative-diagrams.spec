@@ -1,5 +1,5 @@
 Name:		texlive-commutative-diagrams
-Version:	68044
+Version:	71053
 Release:	1
 Summary:	CoDi: Commutative Diagrams for TeX
 Group:		Publishing
