@@ -3,7 +3,7 @@ Version:	71053
 Release:	1
 Summary:	CoDi: Commutative Diagrams for TeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/commutative-diagrams
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/commutative-diagrams
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/commutative-diagrams.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/commutative-diagrams.doc.r%{version}.tar.xz
